@@ -32,5 +32,8 @@ public class ArrayListExample
 
 
     }
-    
+    public void prueba()
+    {
+        System.out.println("hola mundo"); 
+    }
 }
